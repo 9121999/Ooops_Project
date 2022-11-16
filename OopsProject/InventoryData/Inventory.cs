@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OopsProject.InventoryData
+namespace Oops
 {
     internal class Inventory
     {
